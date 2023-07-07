@@ -47,7 +47,7 @@ Corrrelations between our feautures was found. A heatmap was generated to displa
 
 
 The relationship between out target variable, price, and the predictors, independent variables, was determined.
-<img src = 'images\output_3.png' />
+<img src = 'images\output _3.png' />
 
 
 Residuals, differences between the predicted values and the actual values in the final model was found. This plot provides insights into the distribution of the residuals, helping to assess if they follow a normal distribution and detect any patterns or outliers.
