@@ -40,12 +40,19 @@ From the datasets used, only some features and rows were considered relevant to 
 ### Exploratory Data Analysis and Modelling
 Outliers in our price for houses was checked. Absolute outlires was considered to be any price above 5 million and they were dropped.
 <img src = 'images\output_1.png' />
+
+
 Corrrelations between our feautures was found. A heatmap was generated to display correlations DataFrame.
 <img src = 'images\output_2.png' />
+
+
 The relationship between out target variable, price, and the predictors, independent variables, was determined.
 <img src = 'images\output_3.png' />
+
+
 Residuals, differences between the predicted values and the actual values in the final model was found. This plot provides insights into the distribution of the residuals, helping to assess if they follow a normal distribution and detect any patterns or outliers.
 <img src = 'images\output_5.png' />
+
 
 ### Results
 * The multiple linear regression model built has an **R-squared value of 0.825**, which indicates that the model can explain **83%** of the variance of the markethouse sale prices which is a good sign that the model is effective in predicting the prices.
